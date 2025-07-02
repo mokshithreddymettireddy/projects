@@ -1,0 +1,26 @@
+text,label
+hello,greeting
+hi there,greeting
+good morning,greeting
+hey,greeting
+howdy,greeting
+bye,goodbye
+see you later,goodbye
+goodbye,goodbye
+talk to you soon,goodbye
+farewell,goodbye
+play music,music
+i want to listen to a song,music
+play a song,music
+put on some music,music
+start playing music,music
+what's the weather like,weather
+is it raining outside,weather
+will it be sunny today,weather
+tell me the forecast,weather
+do i need an umbrella,weather
+what is your name,identity
+who are you,identity
+can you tell me your name,identity
+what do you do,identity
+introduce yourself,identity
